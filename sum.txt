@@ -1,0 +1,14 @@
+You entered the numbers: ,1,2,3
+The sum is 6.
+The average is 2.0.
+You entered the numbers: 1, 2, 3
+The sum is 6.
+The average is 2.0.
+
+You entered the numbers: 1, 2, 3
+The sum is 6.
+The average is 2.0.
+
+You entered the numbers: 1, 2, 3
+The sum is 6.
+The average is 2.0.

@@ -1,15 +1,11 @@
-the 1st number is 1 
-the 2nd number is 2 
-the 3rd number is 3 
-the average is 2.0 
-the total is 6 
-the 1st number is 1 
-the 2nd number is 2 
-the 3rd number is 3 
-the average is 2.0 
-the total is 6 
-the 1st number is 4 
-the 2nd number is 5 
-the 3rd number is 6 
-the average is 5.0 
-the total is 15 
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+The total is 5500.

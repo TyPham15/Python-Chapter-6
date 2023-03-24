@@ -1,0 +1,4 @@
+Student Name: Tyler
+Midterm Grade: 90.0
+Final Exam Grade: 90.0
+The average grade is an A. 90.0
